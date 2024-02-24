@@ -25,4 +25,11 @@ classDiagram
     
     class Settings {
     }
+
+    namespace Comment_ {
+        class Comment {
+        }
+        class Commentable {
+        }
+    }
 ```
