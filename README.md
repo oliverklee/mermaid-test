@@ -6,4 +6,14 @@ Testing Mermaid in Markdown on GitHub.
 classDiagram
     class OutputFormat {
     }
+   
+    class OutputFormatter {
+    }
+    
+    OutputFormatter --> "1" OutputFormat
+    class Parser {
+    }
+    
+    class ParserState {
+    }
 ```
