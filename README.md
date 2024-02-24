@@ -16,4 +16,13 @@ classDiagram
     
     class ParserState {
     }
+
+   Parser --> "1" ParserState
+    
+    class Renderable {
+    }
+    <<interface>> Renderable
+    
+    class Settings {
+    }
 ```
