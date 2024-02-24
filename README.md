@@ -26,7 +26,7 @@ classDiagram
     class Settings {
     }
 
-    namespace Comment_ {
+    namespace CommentX {
         class Comment {
         }
         class Commentable {
